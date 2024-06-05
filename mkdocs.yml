@@ -1,0 +1,6 @@
+site_name: Callisto tour
+nav:
+    - Home: index.md
+    - Tour:
+      - '1 - The stack and operations': '01_stack.md'
+      - '2 - Functions and variables': '02_functions.md'
